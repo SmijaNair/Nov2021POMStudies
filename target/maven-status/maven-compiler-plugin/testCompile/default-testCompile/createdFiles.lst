@@ -1,0 +1,5 @@
+com/qa/OpenCart/Tests/AccountsPageTest.class
+com/qa/OpenCart/Tests/RegistrationPageTest.class
+com/qa/OpenCart/Base/BaseTest.class
+com/qa/OpenCart/Tests/ProductInfoPageTest.class
+com/qa/OpenCart/Tests/LoginPageTest.class
