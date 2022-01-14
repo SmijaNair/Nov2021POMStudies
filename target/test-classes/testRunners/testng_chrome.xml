@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Demo Cart App Test automtion regression suite"
+       thread-count="4" parallel="tests" verbose="3">
+
+
+    <test name="Login page Test_chrome_90">
+        <parameter name="browser" value="chrome" />
+
+        <classes>
+            <class name="com.qa.OpenCart.Tests.Example" />
+        </classes>
+    </test>
+</suite>

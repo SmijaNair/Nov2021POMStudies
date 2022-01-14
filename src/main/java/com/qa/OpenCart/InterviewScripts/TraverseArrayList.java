@@ -1,4 +1,4 @@
-package com.qa.opencart.InterviewScripts;
+package com.qa.OpenCart.InterviewScripts;
 
 import java.util.ArrayList;
 
