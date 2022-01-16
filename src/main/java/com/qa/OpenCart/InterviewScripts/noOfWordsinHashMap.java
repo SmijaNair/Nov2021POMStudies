@@ -9,7 +9,9 @@ public class noOfWordsinHashMap {
      HashMap<String,Integer>hm = new HashMap<>();
      for(int i=0;i<str1.length;i++){
          if(hm.containsKey(str1[i])){
+             System.out.println("str1[i] is "+str1[i]);
              int count = hm.get(str1[i]);
+             System.out.println("count is "+count);
              hm.put(str1[i],count+1);
          }
          else
